@@ -1,7 +1,7 @@
 # nosql-challenge
 module 12 challenge
 
-The NoSQL_setup_starter.ipynb notebook establishes the non-sql database set up. The actions included the creation of the database and collection known as 'establishments'. An update to the database was made. The database was cleaned by making several data type conversions that were necessary for the analysis that occured in the NoSQL_analysis_starter.ipynb.
+The NoSQL_setup_starter.ipynb notebook establishes the non-sql database set up. The actions included the creation of the database and the collection known as 'establishments'. An update to the database was made. The database was cleaned by making several data type conversions that were necessary for the analysis that occured in the NoSQL_analysis_starter.ipynb.
 
 The NoSQL_analysis_starter notebook answers the following questions:
 1. Which establishments have a hygiene score equal to 20?
